@@ -1,4 +1,4 @@
-#
+# 
 # Cookbook:: users
 # Provider:: manage
 #
